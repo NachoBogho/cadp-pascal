@@ -10,9 +10,6 @@ begin
 
 write('Ingrese un numero: ');
 readln(x);
-write('Ingrese un numero: ');
-readln(num);
-
 while (num <> x*2) do
 begin
   write('Ingrese un numero: ');
